@@ -11,16 +11,16 @@ const Navigation = () =>{
                 to="/"
                 className="text-white ms-3 text-decoration-none"
                 >
-                Home
+                🏠 Home
                 </Link>
                 <Link
                 to="/contacto"
                 className="text-white ms-3 text-decoration-none"
                 >
-                Contacto
+                📒 Contacto
                 </Link>
             </Container>
-            <Navbar.Brand className="text-white">Happy Cake</Navbar.Brand>
+            <Navbar.Brand className="text-white">Happy Cake 🍰</Navbar.Brand>
         </Navbar>
 
     )
